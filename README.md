@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: https://github.com/leonard-ramos27/Notifications-Page-Main
+- Live Site URL: https://leonard-ramos27.github.io/Notifications-Page-Main/
 
 ## My process
 
@@ -51,6 +51,7 @@ This is my first attempt on making a ReactJS project and I've learned a lot espe
 - [Thinking in React](https://react.dev/learn/thinking-in-react) - This helped me with the concepts on ReactJS such as creating components and managing state and props.
 - [React Bootstrap Tutorial](https://www.youtube.com/watch?v=8pKjULHzs0s) - This is a tutorial on using React Bootstrap, though I already have previous knowledge on using Bootstrap, this helped me a lot with how to integrate Bootstrap on React.
 - [How To Import Images Dynamically In React With Vite](https://www.youtube.com/watch?v=7EFZIe_Cpv8) - This helped me with the steps on using the import.meta.url feature to dynamically import the static images.
+- [Deploying Vite App to Github Pages](https://medium.com/@aishwaryaparab1/deploying-vite-deploying-vite-app-to-github-pages-166fff40ffd3) - This helped me with the steps on deploying the app using Github Pages.
 
 ## Author
 
